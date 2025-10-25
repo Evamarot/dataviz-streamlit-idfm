@@ -56,7 +56,7 @@ The analysis reveals several key insights:
 
 1.  **Clone the Repository (Optional):**
     ```bash
-    git clone [YOUR REPO URL]
+    git clone https://github.com/Evamarot/dataviz-streamlit-idfm
     cd MonProjetStreamlit_IDFM
     ```
 2.  **Install Dependencies:**
