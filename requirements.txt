@@ -1,8 +1,9 @@
 # requirements.txt
-python_version = "3.12.9"
-streamlit>=1.33
-pandas
-numpy
-requests
-altair
-pydeck
+python_version = "3.11" 
+
+streamlit>=1.33,<2.0
+pandas>=2.0,<3.0 
+numpy>=1.20,<2.0 
+requests>=2.25,<3.0
+altair>=5.0,<6.0 
+pydeck>=0.8,<0.10 
